@@ -6,8 +6,8 @@ This is a RESTful API for a bookstore. The API is built using Node.js, Express.j
 ## Installation
 1. Clone the repository
 ```bash
-git clone git@github.com:Labrahmi/Lil.git
-cd Lil
+git clone git@github.com:Labrahmi/Bookstore-API.git
+cd Bookstore-API
 ```
 ######
 2. Install the dependencies
